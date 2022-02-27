@@ -1,0 +1,2 @@
+﻿  Source.cpp
+LINK : fatal error LNK1168: cannot open D:\c++\c++ project\gui app\ATM application\x64\Debug\ATM application.exe for writing
